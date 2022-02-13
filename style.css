@@ -1,0 +1,32 @@
+
+.heading{
+  font-size:20px;
+}
+.copy_right_footer{
+  position: fixed;
+  bottom: 0;
+  line-height: 3;
+  background-color: aquamarine;
+  text-align: center;
+  width: 100%;
+  color: darkslategray;
+  font-size: 20px;
+  font-weight: bold;
+  text-shadow: 5px 5px 5px lime;
+}
+ .heading2{
+   background-color:lightsalmon;
+   font-size: 20px;
+   padding-top: 10;
+ }
+
+ .heading3{
+   background-color: lightsalmon;
+   font-size: 20px;
+   padding-top: 10;
+ }
+
+ .mini_result{
+   background-color: lightsalmon;
+   font-size: 20px;
+ }
